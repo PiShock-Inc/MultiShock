@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.0.5](https://github.com/PiShock-Inc/MultiShockSrc/compare/v3.0.4...v3.0.5) (2024-05-19)
+
+
+### Bug Fixes
+
+* Add missing devices to config when fetching from api ([338a8ff](https://github.com/PiShock-Inc/MultiShockSrc/commit/338a8fff4e7e4ae947c5ebf7de12fee5bc86ef4e))
+
 ## [3.0.4](https://github.com/PiShock-Inc/MultiShockSrc/compare/v3.0.3...v3.0.4) (2024-05-16)
 
 
