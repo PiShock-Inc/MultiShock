@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.4.1](https://github.com/PiShock-Inc/MultiShockSrc/compare/v3.4.0...v3.4.1) (2024-08-31)
+
+
+### Bug Fixes
+
+* fetching shared shocker no longer hangs process ([1d0ad26](https://github.com/PiShock-Inc/MultiShockSrc/commit/1d0ad26925f40890d1aa177ac9574f64c8509cbf))
+
 ## [3.4.0](https://github.com/PiShock-Inc/MultiShockSrc/compare/v3.3.1...v3.4.0) (2024-08-31)
 
 
