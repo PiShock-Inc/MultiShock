@@ -1,5 +1,23 @@
 # Changelog
 
+## [3.4.0](https://github.com/PiShock-Inc/MultiShockSrc/compare/v3.3.1...v3.4.0) (2024-08-31)
+
+
+### Features
+
+* add the ability to click the logo to return to front page ([d729f17](https://github.com/PiShock-Inc/MultiShockSrc/commit/d729f179757026c960ca5eda59db81af7bcd7b62))
+* auto save setting on exit of main settings page ([5c8ef96](https://github.com/PiShock-Inc/MultiShockSrc/commit/5c8ef96b8294273a58dedd5906426c67abdb9a6e))
+* sharecodes support ([d729f17](https://github.com/PiShock-Inc/MultiShockSrc/commit/d729f179757026c960ca5eda59db81af7bcd7b62))
+* shared shocker support (BETA) ([5c8ef96](https://github.com/PiShock-Inc/MultiShockSrc/commit/5c8ef96b8294273a58dedd5906426c67abdb9a6e))
+* specific shockers for image detection ([5c8ef96](https://github.com/PiShock-Inc/MultiShockSrc/commit/5c8ef96b8294273a58dedd5906426c67abdb9a6e))
+* style updates ([d729f17](https://github.com/PiShock-Inc/MultiShockSrc/commit/d729f179757026c960ca5eda59db81af7bcd7b62))
+
+
+### Bug Fixes
+
+* dont reload shockers when saving image detection settings ([5c8ef96](https://github.com/PiShock-Inc/MultiShockSrc/commit/5c8ef96b8294273a58dedd5906426c67abdb9a6e))
+* osc addon not reciving messages from vrchat ([5c8ef96](https://github.com/PiShock-Inc/MultiShockSrc/commit/5c8ef96b8294273a58dedd5906426c67abdb9a6e))
+
 ## [3.3.1](https://github.com/PiShock-Inc/MultiShockSrc/compare/v3.3.0...v3.3.1) (2024-08-17)
 
 
