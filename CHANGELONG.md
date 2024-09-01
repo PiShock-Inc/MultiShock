@@ -1,5 +1,14 @@
 # Changelog
 
+## [3.4.2](https://github.com/PiShock-Inc/MultiShockSrc/compare/v3.4.1...v3.4.2) (2024-09-01)
+
+
+### Bug Fixes
+
+* actually add toggle for turning off websocket ([32851f5](https://github.com/PiShock-Inc/MultiShockSrc/commit/32851f5725971ee490b1d75b32b87f4e5f2e7018))
+* image detection not working ([5961021](https://github.com/PiShock-Inc/MultiShockSrc/commit/596102165dddbce882a12f7b47e3a2816a9b5fb5))
+* styling on settings page ([4be16b8](https://github.com/PiShock-Inc/MultiShockSrc/commit/4be16b8b499b002e808c8096500427c52819f476))
+
 ## [3.4.1](https://github.com/PiShock-Inc/MultiShockSrc/compare/v3.4.0...v3.4.1) (2024-08-31)
 
 
