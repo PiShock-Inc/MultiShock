@@ -1,5 +1,19 @@
 # Changelog
 
+## [3.4.3](https://github.com/PiShock-Inc/MultiShockSrc/compare/v3.4.2...v3.4.3) (2024-09-08)
+
+
+### Bug Fixes
+
+* actually send end commands to serial ([ec45f20](https://github.com/PiShock-Inc/MultiShockSrc/commit/ec45f20f5461972d1d73ba6956983fe334e5822e))
+* add max duration to liindys shocker ([ec45f20](https://github.com/PiShock-Inc/MultiShockSrc/commit/ec45f20f5461972d1d73ba6956983fe334e5822e))
+* hype train not working ([fb058c3](https://github.com/PiShock-Inc/MultiShockSrc/commit/fb058c39d48114a4e0036b00d51f17580155ade4))
+* liindys controller shocks acting weird ([4ee0ab9](https://github.com/PiShock-Inc/MultiShockSrc/commit/4ee0ab9ac0e07b952ac2bc086899178725fa1049))
+* linux actually find browsers ([1ded8a7](https://github.com/PiShock-Inc/MultiShockSrc/commit/1ded8a7f6c3301902349dc84568aebf7b0e1034c))
+* linux app data path ([95e1707](https://github.com/PiShock-Inc/MultiShockSrc/commit/95e1707c09d334b6245c77079c62a721a248dc50))
+* linux support ([a4825e4](https://github.com/PiShock-Inc/MultiShockSrc/commit/a4825e4bed9ab8801c0376845d0ccf1ba8be73a3))
+* properly switch back to redis on command fail ([47803a2](https://github.com/PiShock-Inc/MultiShockSrc/commit/47803a20c95eb2ebfce96bdba4765797c18b5020))
+
 ## [3.4.2](https://github.com/PiShock-Inc/MultiShockSrc/compare/v3.4.1...v3.4.2) (2024-09-01)
 
 
