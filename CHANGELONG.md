@@ -1,5 +1,38 @@
 # Changelog
 
+## [3.6.0](https://github.com/PiShock-Inc/MultiShockSrc/compare/v3.5.0...v3.6.0) (2024-10-09)
+
+
+### Features
+
+* add notifications for why twitch or osc might not start ([8c3dad0](https://github.com/PiShock-Inc/MultiShockSrc/commit/8c3dad0a732e3adec8b1ade28bd903b24f0ee5e2))
+* add option for bits to need to be a specific amount to activate ([8c3dad0](https://github.com/PiShock-Inc/MultiShockSrc/commit/8c3dad0a732e3adec8b1ade28bd903b24f0ee5e2))
+* added ability to test loaded shockers by double clicking them in settings page! ([b72629b](https://github.com/PiShock-Inc/MultiShockSrc/commit/b72629b1969663374ff96dfc2c670ad58052cbb8))
+* bit and sub test area ([8c3dad0](https://github.com/PiShock-Inc/MultiShockSrc/commit/8c3dad0a732e3adec8b1ade28bd903b24f0ee5e2))
+
+
+### Bug Fixes
+
+* fix typo in liindys controller warning ([b72629b](https://github.com/PiShock-Inc/MultiShockSrc/commit/b72629b1969663374ff96dfc2c670ad58052cbb8))
+* properly disable sliders for sub brackets when activate as cheers is enabled ([8c3dad0](https://github.com/PiShock-Inc/MultiShockSrc/commit/8c3dad0a732e3adec8b1ade28bd903b24f0ee5e2))
+
+## [3.5.0](https://github.com/PiShock-Inc/MultiShockSrc/compare/v3.4.3...v3.5.0) (2024-09-13)
+
+
+### Features
+
+* add ability to disable OSC addon ([b11d5c3](https://github.com/PiShock-Inc/MultiShockSrc/commit/b11d5c3401e93e3b73bcbb0d924bc1087af7f667))
+* improve emergency stop button ([b11d5c3](https://github.com/PiShock-Inc/MultiShockSrc/commit/b11d5c3401e93e3b73bcbb0d924bc1087af7f667))
+
+
+### Bug Fixes
+
+* dont make a GetShockersByShareIds request if ids list is empty ([b4a143f](https://github.com/PiShock-Inc/MultiShockSrc/commit/b4a143f3a7c632a3a7e80ab1a5c9f863464f8c5f))
+* fix invalid oauth token causing errors ([b11d5c3](https://github.com/PiShock-Inc/MultiShockSrc/commit/b11d5c3401e93e3b73bcbb0d924bc1087af7f667))
+* settings autosave still triggering when no changes were made ([b11d5c3](https://github.com/PiShock-Inc/MultiShockSrc/commit/b11d5c3401e93e3b73bcbb0d924bc1087af7f667))
+* update checker notifying EVERY SINGLE TIME you go to image detection page ([b11d5c3](https://github.com/PiShock-Inc/MultiShockSrc/commit/b11d5c3401e93e3b73bcbb0d924bc1087af7f667))
+* websocket commands requiring args ([b11d5c3](https://github.com/PiShock-Inc/MultiShockSrc/commit/b11d5c3401e93e3b73bcbb0d924bc1087af7f667))
+
 ## [3.4.3](https://github.com/PiShock-Inc/MultiShockSrc/compare/v3.4.2...v3.4.3) (2024-09-08)
 
 
