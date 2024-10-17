@@ -1,5 +1,13 @@
 # Changelog
 
+## [3.6.1](https://github.com/PiShock-Inc/MultiShockSrc/compare/v3.6.0...v3.6.1) (2024-10-17)
+
+
+### Bug Fixes
+
+* redeems not being recieved from twitch ([2360eee](https://github.com/PiShock-Inc/MultiShockSrc/commit/2360eee3a107657e553c078630f91cc81502b0a4))
+* update notifier ([56ff8fe](https://github.com/PiShock-Inc/MultiShockSrc/commit/56ff8feb1ba357e28ac8bcecbeb83190fc7143c8))
+
 ## [3.6.0](https://github.com/PiShock-Inc/MultiShockSrc/compare/v3.5.0...v3.6.0) (2024-10-09)
 
 
