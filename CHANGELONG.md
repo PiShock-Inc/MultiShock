@@ -1,5 +1,33 @@
 # Changelog
 
+## [3.7.0](https://github.com/PiShock-Inc/MultiShockSrc/compare/v3.6.1...v3.7.0) (2024-12-21)
+
+
+### Features
+
+* add priority bool to instantly process commands ([4d5c008](https://github.com/PiShock-Inc/MultiShockSrc/commit/4d5c0081974c0576f47ec0bc14afdba5c7a37691))
+* add way to reset/edit individual config entries ([4d5c008](https://github.com/PiShock-Inc/MultiShockSrc/commit/4d5c0081974c0576f47ec0bc14afdba5c7a37691))
+* cache sharecode users ([4129439](https://github.com/PiShock-Inc/MultiShockSrc/commit/412943983684078cdba8761fa1a7383da39ef34c))
+* implement controls page ([4d5c008](https://github.com/PiShock-Inc/MultiShockSrc/commit/4d5c0081974c0576f47ec0bc14afdba5c7a37691))
+* improve loading screens ([4d5c008](https://github.com/PiShock-Inc/MultiShockSrc/commit/4d5c0081974c0576f47ec0bc14afdba5c7a37691))
+* improve settings page ([4d5c008](https://github.com/PiShock-Inc/MultiShockSrc/commit/4d5c0081974c0576f47ec0bc14afdba5c7a37691))
+* remove support for legacy login (username+api key) ([4d5c008](https://github.com/PiShock-Inc/MultiShockSrc/commit/4d5c0081974c0576f47ec0bc14afdba5c7a37691))
+
+
+### Bug Fixes
+
+* build script not working on windows ([f718729](https://github.com/PiShock-Inc/MultiShockSrc/commit/f71872936ae884fcfbfe0a16eaf181fbdc2fcec4))
+* deleting modules/downloading community modules ([5071959](https://github.com/PiShock-Inc/MultiShockSrc/commit/50719591d6a6ff3cfc6a29f6fe2e94997056baf4))
+* hopefully fix twitch websocket issues ([f718729](https://github.com/PiShock-Inc/MultiShockSrc/commit/f71872936ae884fcfbfe0a16eaf181fbdc2fcec4))
+* improve shocker queue system ([4d5c008](https://github.com/PiShock-Inc/MultiShockSrc/commit/4d5c0081974c0576f47ec0bc14afdba5c7a37691))
+* navbar not working with touch screen ([c4832ad](https://github.com/PiShock-Inc/MultiShockSrc/commit/c4832ad56b8768a6caccf8fb42c0bc8a2d74d982))
+* saving config taking forever ([4d5c008](https://github.com/PiShock-Inc/MultiShockSrc/commit/4d5c0081974c0576f47ec0bc14afdba5c7a37691))
+* serial connections failing/being unreliable ([2714649](https://github.com/PiShock-Inc/MultiShockSrc/commit/27146499582129bfc68a298a0384f29a93e3950a))
+* show shockers from config BEFORE fetching from api to improve speed ([4d5c008](https://github.com/PiShock-Inc/MultiShockSrc/commit/4d5c0081974c0576f47ec0bc14afdba5c7a37691))
+* twitch chat listener ([f718729](https://github.com/PiShock-Inc/MultiShockSrc/commit/f71872936ae884fcfbfe0a16eaf181fbdc2fcec4))
+* update linux build script ([ea859f0](https://github.com/PiShock-Inc/MultiShockSrc/commit/ea859f06d94d049400bed00d72833fdabe2ee04e))
+* websocket not being able to send devices/shockers ([574b5b0](https://github.com/PiShock-Inc/MultiShockSrc/commit/574b5b0758ce44ef48c128672c4c56815e3798c9))
+
 ## [3.6.1](https://github.com/PiShock-Inc/MultiShockSrc/compare/v3.6.0...v3.6.1) (2024-10-17)
 
 
