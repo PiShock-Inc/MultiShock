@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.7.1](https://github.com/PiShock-Inc/MultiShockSrc/compare/v3.7.0...v3.7.1) (2025-01-04)
+
+
+### Bug Fixes
+
+* typo in osc function breaking osc from working ([988100d](https://github.com/PiShock-Inc/MultiShockSrc/commit/988100dc7549dc684f73258b14d35865f9d7c16c))
+
 ## [3.7.0](https://github.com/PiShock-Inc/MultiShockSrc/compare/v3.6.1...v3.7.0) (2024-12-21)
 
 
