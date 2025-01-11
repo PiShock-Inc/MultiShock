@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.7.2](https://github.com/PiShock-Inc/MultiShockSrc/compare/v3.7.1...v3.7.2) (2025-01-11)
+
+
+### Bug Fixes
+
+* shocker controls not allowing saving of presets ([656481a](https://github.com/PiShock-Inc/MultiShockSrc/commit/656481a4cdc34041172c091c469eddc35eb54b3b))
+
 ## [3.7.1](https://github.com/PiShock-Inc/MultiShockSrc/compare/v3.7.0...v3.7.1) (2025-01-04)
 
 
