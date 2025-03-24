@@ -1,5 +1,16 @@
 # Changelog
 
+## [3.7.3](https://github.com/PiShock-Inc/MultiShockSrc/compare/v3.7.2...v3.7.3) (2025-03-24)
+
+
+### Bug Fixes
+
+* image detection cooldown types not working ([6a521fa](https://github.com/PiShock-Inc/MultiShockSrc/commit/6a521fa2794cfb8287154cf07822b8da6eff1526))
+* linux builds breaking ([88baee9](https://github.com/PiShock-Inc/MultiShockSrc/commit/88baee95af92c64f115f3e9170273158f8a5b365))
+* move auth endpoints to auth-k8s ([5ca2a58](https://github.com/PiShock-Inc/MultiShockSrc/commit/5ca2a58da219a3c9559292d439538b284d49c28b))
+* move auth-k8s back to auth (i know) ([199afe1](https://github.com/PiShock-Inc/MultiShockSrc/commit/199afe182f424ff2319b022d7e0511984ac62024))
+* platform specific issues ([6c8b62b](https://github.com/PiShock-Inc/MultiShockSrc/commit/6c8b62bb76add3ba67b11103dacd0ca1e8ad745d))
+
 ## [3.7.2](https://github.com/PiShock-Inc/MultiShockSrc/compare/v3.7.1...v3.7.2) (2025-01-11)
 
 
